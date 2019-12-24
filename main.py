@@ -1,6 +1,5 @@
 from leetcode import rotate_array, point_of_lattice
 
-
 '''
 rotate_array
 '''
